@@ -11,27 +11,23 @@ const Wrapper = styled.div`
 const PROJECTS = [
   {
     title: 'Feast It',
-    image:
-      'https://piersolenski.com/thumbs/projects/feast-it/laptop-1440x900.jpg',
+    image: 'https://unsplash.it/1440/900/?1',
   },
   {
     title: 'Twizy Tours',
-    image: 'https://piersolenski.com/thumbs/projects/twizy/laptop-1440x900.jpg',
+    image: 'https://unsplash.it/1440/900/?2',
   },
   {
     title: 'Care Cards',
-    image:
-      'https://piersolenski.com/thumbs/projects/care-cards/laptop-1440x900.jpg',
+    image: 'https://unsplash.it/1440/900/?3',
   },
   {
     title: 'World Wide Generation',
-    image:
-      'https://piersolenski.com/thumbs/projects/world-wide-generation/laptop-1440x900.jpg',
+    image: 'https://unsplash.it/1440/900/?4',
   },
   {
     title: 'Mariah or Messiah',
-    image:
-      'https://piersolenski.com/thumbs/projects/mariah-or-messiah/laptop-1440x900.jpg',
+    image: 'https://unsplash.it/1440/900/?5',
   },
 ];
 
